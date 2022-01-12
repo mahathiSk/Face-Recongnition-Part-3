@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(green,white,hotpink);
+    }
+    
+    .heading{
+        font-size: 30px;
+        color:burlywood;
+        font-family: 'Luxurious Roman', cursive;
+    }
+    
+    .object{
+        color: red;
+    }
+    
+    #webcam{
+        border:3px solid burlywood;
+        border-radius: 15px;
+        width: 350px;
+        height: 350px;
+    }
+    
+    #snapshot{
+        border:3px solid blanchedalmond;
+        border-radius: 15px;
+        width: 350px;
+        height: 350px;
+    }
+    
+    #Object_name{
+        color: yellow;
+    }
+    
+    #Object_Accuracy{
+        color: yellow;
+    }
